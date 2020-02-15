@@ -2,7 +2,8 @@
 
 ![MPLS topology](https://github.com/mlechonczak/labs/blob/master/mpls-l3-vpn/mpls.png)
 
-
+## IOS Version 
+Cisco IOS Software, IOSv Software (VIOS-ADVENTERPRISEK9-M), Version 15.6(2)T, RELEASE SOFTWARE (fc2)
 ## Loopback addresses
 ```
 R1: 1.1.1.1/32
